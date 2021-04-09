@@ -22,7 +22,10 @@ This is an ecommerce website following MERN stack convention.
 <h3>Install Dependencies (frontend & backend)</h3>
 <b>In the root directory use:</b>
 <code>
+  
   npm install
+  <br>
   cd frontend
+  <br>
   npm install 
 </code>
