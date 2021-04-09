@@ -1,4 +1,4 @@
-# Ecommerce-Shobcity-FullStackDevelopment-MERN
+# :rocket:Ecommerce-Shobcity-FullStackDevelopment-MERN:rocket:
 This is an ecommerce website following MERN stack convention.
 
 <h2>Features I want to add: </h2>
