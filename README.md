@@ -1,7 +1,7 @@
 # Ecommerce-Shobcity-FullStackDevelopment-MERN
 This is an ecommerce website following MERN stack convention.
 
-<h1>Features I want to add: </h1>
+<h2>Features I want to add: </h2>
 <ol>
   <li>Full featured shopping cart</li>
 <li>Product reviews and ratings</li>
@@ -17,3 +17,12 @@ This is an ecommerce website following MERN stack convention.
   <li>PayPal / credit card integration</li>
   <li>Database seeder (products & users)</li>
 </ol>
+
+<h2>Usage Guide</h2>
+<h3>Install Dependencies (frontend & backend)</h3>
+<b>In the root directory use:</b>
+<code>
+  npm install
+  cd frontend
+  npm install 
+</code>
