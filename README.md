@@ -1,18 +1,19 @@
 # Ecommerce-Shobcity-FullStackDevelopment-MERN
 This is an ecommerce website following MERN stack convention.
 
-Features I want to add:
-
-1.Full featured shopping cart
-2.Product reviews and ratings
-3.Top products carousel
-4.Product pagination
-5.Product search feature
-6.User profile with orders
-7.Admin product management
-8.Admin user management
-9.Admin Order details page
-10.Mark orders as delivered option
-11.Checkout process (shipping, payment method, etc)
-12.PayPal / credit card integration
-13.Database seeder (products & users)
+<h1>Features I want to add: </h1>
+<ol>
+  <li>Full featured shopping cart</li>
+<li>Product reviews and ratings</li>
+<li>Top products carousel</li>
+<li>Product pagination</li>
+<li>Product search feature</li>
+<li>User profile with orders</li>
+<li>Admin product management</li>
+<li>Admin user management</li>
+<li>Admin Order details page</li>
+<li>Mark orders as delivered option</li>
+<li>Checkout process (shipping, payment method, etc)</li>
+  <li>PayPal / credit card integration</li>
+  <li>Database seeder (products & users)</li>
+</ol>
