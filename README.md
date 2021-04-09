@@ -30,3 +30,4 @@ This is an ecommerce website following MERN stack convention.
   <li><code>npm install</code></li>
 </ul>
 
+<h2>Please Feel Free To contribute :blush:</h2>
