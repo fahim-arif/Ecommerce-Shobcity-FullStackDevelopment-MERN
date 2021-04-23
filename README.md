@@ -28,6 +28,11 @@ This is an ecommerce website following MERN stack convention.
   <li><code>cd frontend</code></li>
  
   <li><code>npm install</code></li>
+  Go to the root directory and run:
+  <li><code>npm run dev</code></li>
+  to run both frontend and backend concurrently
 </ul>
 
+<h2>My thoughts</h2>
+<p>I have added a basic ecommerce features of an ecommerce site. I have added cart functionalities and user authentification and autherization. Although I haven't added checkout, payment gateways and admin panel to administrate products</p>
 <h2>Please Feel Free To contribute :blush:</h2>
