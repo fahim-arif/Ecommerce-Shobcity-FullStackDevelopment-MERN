@@ -14,13 +14,15 @@ connectDB();
 
 const importData = async () => {
   try {
-    await Order.deleteMany();
+    // await Order.deleteMany();
     await Product.deleteMany();
-    await User.deleteMany();
+    // await User.deleteMany();
 
-    const createdUsers = await User.insertMany(users);
+    // const createdUsers = await User.insertMany(users);
 
-    const adminUser = createdUsers[0]._id;
+    // const adminUser = createdUsers[0]._id;
+    const user = await User.find();
+    const adminUser = user[0]._id;
 
     const sampleProducts = products.map((product) => {
       return { ...product, user: adminUser };
@@ -37,9 +39,9 @@ const importData = async () => {
 };
 const destroyData = async () => {
   try {
-    await Order.deleteMany();
+    // await Order.deleteMany();
     await Product.deleteMany();
-    await User.deleteMany();
+    // await User.deleteMany();
 
     console.log("Data Destroyed!".red.inverse);
     process.exit();

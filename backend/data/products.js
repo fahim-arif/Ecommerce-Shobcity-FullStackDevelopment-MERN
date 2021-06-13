@@ -5,7 +5,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 89.99,
     countInStock: 3,
     rating: 4.3,
@@ -17,7 +17,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 599.99,
     countInStock: 10,
     rating: 4.5,
@@ -29,7 +29,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 929.99,
     countInStock: 5,
     rating: 4.3,
@@ -41,7 +41,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 399.99,
     countInStock: 10,
     rating: 4.9,
@@ -53,7 +53,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 49.99,
     countInStock: 2,
     rating: 5,
@@ -65,7 +65,7 @@ const products = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, magnam eum aut numquam libero sed nemo perferendis facilis expedita doloremque temporibus quibusdam fuga deleniti voluptatum nesciunt veniam a est rem.",
     brand: "Apple",
-    catagory: "Electronics",
+    category: "Electronics",
     price: 29.99,
     countInStock: 0,
     rating: 4,
